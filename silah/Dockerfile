@@ -8,3 +8,4 @@ COPY frontend/ ./
 
 # Expose port 80 to the host machine
 EXPOSE 80
+
